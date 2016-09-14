@@ -1,0 +1,6 @@
+framework module Pods_CieloEcommerce_Tests {
+  umbrella header "Pods-CieloEcommerce_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

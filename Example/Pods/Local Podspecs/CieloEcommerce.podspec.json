@@ -1,0 +1,22 @@
+{
+  "name": "CieloEcommerce",
+  "version": "0.1.0",
+  "summary": "A short description of CieloEcommerce.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/CieloEcommerce",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Thiago Rodrigues de Paula": "thiago.rdp@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/CieloEcommerce.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CieloEcommerce/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module CieloEcommerce {
+  umbrella header "CieloEcommerce-umbrella.h"
+
+  export *
+  module * { export * }
+}
