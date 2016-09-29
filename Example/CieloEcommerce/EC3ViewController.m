@@ -13,11 +13,11 @@
 #import <CieloEcommerce/EC3Customer.h>
 #import <CieloEcommerce/EC3CreditCard.h>
 #import <CieloEcommerce/EC3Payment.h>
-#import <CieloEcommerce/EC3AbstractSaleRequest.h>
+#import <CieloEcommerce/EC3CieloEcommerce.h>
 
 @interface EC3ViewController ()
 
-@property EC3AbstractSaleRequest *saleRequest;
+@property EC3CieloEcommerce *saleRequest;
 
 @end
 
@@ -30,7 +30,7 @@
     
     EC3Merchant *merchant = [EC3Merchant initWithId:@"3e0265a9-29df-4196-b01e-a03cd6a7e8ad" andKey:@"UYZCUHFOBDSWMYCZJUFPTDISFHAZRQTFYMKVCAYM"];
     
-    self.saleRequest = [[EC3AbstractSaleRequest alloc] initWithMerchant:merchant andEnvironment:[EC3Environment sandbox]];
+    self.saleRequest = [[EC3CieloEcommerce alloc] initWithMerchant:merchant andEnvironment:[EC3Environment sandbox]];
     
     EC3Address *address = [[EC3Address alloc] init];
     address.street = @"Rua Paulo Orozimbo";

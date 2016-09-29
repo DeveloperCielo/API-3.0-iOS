@@ -8,7 +8,7 @@
 #import "EC3Payment.h"
 #import "EC3RecurrentPayment.h"
 #import "EC3Sale.h"
-#import "EC3AbstractSaleRequest.h"
+#import "EC3CieloEcommerce.h"
 #import "EC3JSONAdapter.h"
 #import "EC3RequestModel.h"
 

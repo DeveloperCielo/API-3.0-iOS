@@ -15,7 +15,7 @@
 typedef void (^EC3RequestSuccessBlock) (EC3Sale *sale);
 typedef void (^EC3RequestFailureBlock) (NSError *error, NSHTTPURLResponse* httpResponse);
 
-@interface EC3AbstractSaleRequest : NSObject
+@interface EC3CieloEcommerce : NSObject
 
 @property (readonly) EC3Merchant *merchant;
 @property (readonly) EC3Environment *environment;

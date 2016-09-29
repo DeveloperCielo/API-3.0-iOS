@@ -8,10 +8,10 @@
 
 #import <AFNetworking/AFNetworking.h>
 #import "EC3JSONAdapter.h"
-#import "EC3AbstractSaleRequest.h"
+#import "EC3CieloEcommerce.h"
 #import "EC3Sale.h"
 
-@implementation EC3AbstractSaleRequest
+@implementation EC3CieloEcommerce
 
 - (id)initWithMerchant:(EC3Merchant *)merchant
         andEnvironment:(EC3Environment *)environment {
