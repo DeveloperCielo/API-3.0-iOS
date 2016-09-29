@@ -10,14 +10,14 @@
 		00F04088C647F97E6F63D3BC5FBCC347 /* SpectaUtility.h in Headers */ = {isa = PBXBuildFile; fileRef = E512AFE5680647419AED58ED6665D38B /* SpectaUtility.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		03F5EE857E2BAF72AB6BEBE8C08F477E /* OCMNotificationPoster.m in Sources */ = {isa = PBXBuildFile; fileRef = 873A4E240BC3DD9E63BA92A5D7624737 /* OCMNotificationPoster.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		0850D87D538E2E40EF3AD51148FEF549 /* NSError+MTLModelException.h in Headers */ = {isa = PBXBuildFile; fileRef = 0B346EB52DFC86FD80BF4C9FF2BDC562 /* NSError+MTLModelException.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		08B66D23692303E9BB7450A79B29715D /* EC3CreditCard.h in Headers */ = {isa = PBXBuildFile; fileRef = E6E15A71228180DF12554BD8B70138C8 /* EC3CreditCard.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		08B66D23692303E9BB7450A79B29715D /* EC3CreditCard.h in Headers */ = {isa = PBXBuildFile; fileRef = F9C840A5A0035A4E5F3A87DD401D9AB9 /* EC3CreditCard.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		092C9894CA3EC83E794512BE35385E52 /* XCTestCase+Specta.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C58E33C431328C3FC0A86D5D45DC660 /* XCTestCase+Specta.m */; };
 		09FCF1276C5F0353928F4BC258212B12 /* MTLValueTransformer.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F37108D06E6C2492F3F7A16D72B4317 /* MTLValueTransformer.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
 		0AC63A4E1C49A08DF0038A2CB578AEF9 /* OCMRecorder.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D874E72C440CB7915BC2CE2ADF71B7A /* OCMRecorder.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		0C42010808499ADFF5DC8AC2D68710EB /* MTLJSONAdapter.h in Headers */ = {isa = PBXBuildFile; fileRef = 09E2959B11A94ECA42BF93405BB4FF5F /* MTLJSONAdapter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0C6FF91EB1F0391ED75DC72D31D159EF /* EXPMatchers+beTruthy.m in Sources */ = {isa = PBXBuildFile; fileRef = C92AE76C068443F244FE6F62F220D582 /* EXPMatchers+beTruthy.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		0D16B556212D317A0D4FEB71E102E207 /* EXPMatchers+beLessThan.h in Headers */ = {isa = PBXBuildFile; fileRef = 5EA0BE50C756CC3938BD46AFF247822F /* EXPMatchers+beLessThan.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		0E2C9D0418165B22C1F76CC7081D0E17 /* EC3CieloEcommerce.m in Sources */ = {isa = PBXBuildFile; fileRef = BC548905070776360742CE2B79743E37 /* EC3CieloEcommerce.m */; };
+		0E2C9D0418165B22C1F76CC7081D0E17 /* EC3CieloEcommerce.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A131B4E3D2453A05B21F230045B7D7C /* EC3CieloEcommerce.m */; };
 		0E3915C84ADA9E507DD542951E4CEC6E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CE42724892606E060CC638AC19D1D1E /* Foundation.framework */; };
 		0EBFA5FBE4953A83B677CE2A75746761 /* EXPMatchers+beLessThan.m in Sources */ = {isa = PBXBuildFile; fileRef = B83A248525AAD743FA65CC2B7F3E0609 /* EXPMatchers+beLessThan.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		0F94F5B0ABB3252B9275B7C129EC7A26 /* EXPMatchers+equal.h in Headers */ = {isa = PBXBuildFile; fileRef = B590C4B24326E652587AC93A37B9F5F6 /* EXPMatchers+equal.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -54,7 +54,7 @@
 		2D125712F3D241F8D8C1A9B7EE0478C6 /* OCMInvocationExpectation.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA288F24A510F6EB38380F4D1CFD9A9 /* OCMInvocationExpectation.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		2E14619153A453BB8DF389FB6EA147BE /* ExpectaObject.h in Headers */ = {isa = PBXBuildFile; fileRef = DEE6EB21AD2A959C2BF277D432022650 /* ExpectaObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2E8A32ED46194EDBE22146271F6D26DE /* UIImageView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E2116078D7BD870B9DC79880D504080 /* UIImageView+AFNetworking.m */; };
-		2F3331E03C6901E09D67F67F3524D3BB /* EC3Customer.h in Headers */ = {isa = PBXBuildFile; fileRef = BD80F059DF7874BAA7B9E6B6E6E915F2 /* EC3Customer.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2F3331E03C6901E09D67F67F3524D3BB /* EC3Customer.h in Headers */ = {isa = PBXBuildFile; fileRef = 1ADFB2FFE23BA05F4BB5D0C87BF75159 /* EC3Customer.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2F427490ACABC4408D57CC0592276678 /* EXPDoubleTuple.h in Headers */ = {isa = PBXBuildFile; fileRef = FE5C4E19453EF60A2836B6D495EEE75E /* EXPDoubleTuple.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		317C0CBEBB153AF0BE032DB187DCA0E0 /* NSArray+MTLManipulationAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 488AF5D9FC823DF9F4065BB740732793 /* NSArray+MTLManipulationAdditions.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
 		346B6D672C01EE3DD8EE16B04229F183 /* OCMRealObjectForwarder.m in Sources */ = {isa = PBXBuildFile; fileRef = C9A4E05263BDD900F175210BB0D86CBC /* OCMRealObjectForwarder.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
@@ -92,13 +92,13 @@
 		4ECCDEF1D4BA8D11BCA5E7BBF29DC427 /* NSMethodSignature+OCMAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = FDB0F70F820422194EDE4E68A7FEB805 /* NSMethodSignature+OCMAdditions.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		4FE3D0FC60D1370E831CBFF9680FA8EB /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 439BDE66B40CEF410E0C50FB23DC4470 /* MobileCoreServices.framework */; };
 		5023527322EB39A20AD06B21B7EB0078 /* MTLModel+NSCoding.m in Sources */ = {isa = PBXBuildFile; fileRef = F51AAB6EF30198AD7E1E2113040A3EAE /* MTLModel+NSCoding.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		50D9BCF9B42C4B9718E7B1184E7FF072 /* EC3Merchant.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C38E7AA70C06FE1BA6F74F92363A3B6 /* EC3Merchant.m */; };
+		50D9BCF9B42C4B9718E7B1184E7FF072 /* EC3Merchant.m in Sources */ = {isa = PBXBuildFile; fileRef = 66ACC6FCF11676C7A98417185D2ACEB4 /* EC3Merchant.m */; };
 		51DDDB0FB4899757CF6A826B531B940D /* EXPUnsupportedObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 5FA6BB0354CB6AA86487F0A272EAEA92 /* EXPUnsupportedObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5290FAAA3E59201CE10247CEBBB94D31 /* SPTCompiledExample.h in Headers */ = {isa = PBXBuildFile; fileRef = 78C080F23E37DC68D0533E26A41676CE /* SPTCompiledExample.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		533F852FA5E53AC188F4D421808779FA /* MTLTransformerErrorHandling.m in Sources */ = {isa = PBXBuildFile; fileRef = 5494044CA4BF829466B7AC36BC3F94D4 /* MTLTransformerErrorHandling.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
 		55107C79C22E46BA0E03017D2CD2E18B /* OCMBlockArgCaller.m in Sources */ = {isa = PBXBuildFile; fileRef = 0024E615CAF16302AE30396A17FA2C10 /* OCMBlockArgCaller.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		560698A4D707DCBCC1C8F98BC9B89B23 /* AFURLSessionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 54E8F1626C03A2BB07782157274753AA /* AFURLSessionManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		57AA987C096B053A35336ABB5FD77A68 /* EC3Address.h in Headers */ = {isa = PBXBuildFile; fileRef = A796EBFC1C839694A0E8A60E74C406E6 /* EC3Address.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		57AA987C096B053A35336ABB5FD77A68 /* EC3Address.h in Headers */ = {isa = PBXBuildFile; fileRef = 7348072EC275C4E1B506F8AECD5BEE79 /* EC3Address.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5808B477EFF509D810B5CDCFDC944F80 /* AFImageDownloader.h in Headers */ = {isa = PBXBuildFile; fileRef = C128794F4E2F4CCCA3B1DA7FDFD84F13 /* AFImageDownloader.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5AD200E0282948E9370C7E762E6E2EED /* NSValue+OCMAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 15B866F2EA7E62BB9FEA17C4FAC48414 /* NSValue+OCMAdditions.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		5B2D4A621D3DA971A474776AF36BB073 /* EXPBlockDefinedMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 1670CB879BED306FD14699726FD856F0 /* EXPBlockDefinedMatcher.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
@@ -142,7 +142,7 @@
 		76D337327C10A7555447B69AA1562647 /* EXPMatchers+beInstanceOf.m in Sources */ = {isa = PBXBuildFile; fileRef = 1698B26CA79453886A6940AE4557AE66 /* EXPMatchers+beInstanceOf.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		77AE730E8622B1825A4047BBFBA8BA50 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CE42724892606E060CC638AC19D1D1E /* Foundation.framework */; };
 		782A052F46927F486092F43622F6AB2D /* OCMBlockCaller.h in Headers */ = {isa = PBXBuildFile; fileRef = BB2E917431EBE210EFC01FF28AB3A4C3 /* OCMBlockCaller.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		787801F578D95E6C6948727E541E9220 /* EC3Merchant.h in Headers */ = {isa = PBXBuildFile; fileRef = 4C92EEB02A50B71B110140845429D648 /* EC3Merchant.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		787801F578D95E6C6948727E541E9220 /* EC3Merchant.h in Headers */ = {isa = PBXBuildFile; fileRef = F3AE876B7E1884BB3FD70A1BC3D22071 /* EC3Merchant.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		78D00A49953FB8DDC39334CD40B8C713 /* OCMMacroState.m in Sources */ = {isa = PBXBuildFile; fileRef = FEC225BB2252D17EAA8C29A0793F3ABB /* OCMMacroState.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		7904994422E59F60060799B9DE33A066 /* EXTScope.h in Headers */ = {isa = PBXBuildFile; fileRef = 1CD4FDE782D4EA2E4EBBF261CE51DF85 /* EXTScope.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		79558B1F97ABE4AB8942DC18BEBD4B82 /* EXPMatchers+beKindOf.h in Headers */ = {isa = PBXBuildFile; fileRef = FB55FABA52BEF2C6392A84C597811E42 /* EXPMatchers+beKindOf.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -153,9 +153,9 @@
 		7D7BE573A26FE8D0A5CFA21637505AC1 /* OCMock-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0AA76B96B302FDE81A5A547AB9C0B252 /* OCMock-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		805E425BBEF7A6133E32E1D30A073010 /* EXPExpect.m in Sources */ = {isa = PBXBuildFile; fileRef = BDBB365D39C659F2C18C8D861FBAA3A7 /* EXPExpect.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		80C9599C29759C0F66709EE04D2E41E4 /* SPTCallSite.m in Sources */ = {isa = PBXBuildFile; fileRef = 71BE6ED95F3A65CAF3A38136A231B032 /* SPTCallSite.m */; };
-		80E5CACCAEA67D44CD9BAC49F5E0035F /* EC3Customer.m in Sources */ = {isa = PBXBuildFile; fileRef = 784F72805CABA5E80BDDA50A2C20103A /* EC3Customer.m */; };
-		80EEA66804839BA8CC628399BAB20A7C /* EC3Payment.h in Headers */ = {isa = PBXBuildFile; fileRef = 3741BED245647B673D2E7412245312BD /* EC3Payment.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		80F67EBFD1CA05159D313EF58798928D /* EC3RecurrentPayment.h in Headers */ = {isa = PBXBuildFile; fileRef = DD17DF3398F2AB36A4FFB994054BA78E /* EC3RecurrentPayment.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		80E5CACCAEA67D44CD9BAC49F5E0035F /* EC3Customer.m in Sources */ = {isa = PBXBuildFile; fileRef = 768A8223E3D10E073E62C7C14741CDD6 /* EC3Customer.m */; };
+		80EEA66804839BA8CC628399BAB20A7C /* EC3Payment.h in Headers */ = {isa = PBXBuildFile; fileRef = 8BA7F217DEF270181BAC5D89497632DD /* EC3Payment.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		80F67EBFD1CA05159D313EF58798928D /* EC3RecurrentPayment.h in Headers */ = {isa = PBXBuildFile; fileRef = A62E69467E1813EC49D9221CE6E56751 /* EC3RecurrentPayment.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		818FABC6A97A826A03513DA8C308E0FE /* MTLModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D075133A1C05E5FA70C82530B0D8279 /* MTLModel.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
 		81B617F8D26BB10C5726D75E85D21EB7 /* UIButton+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = CD42BFA3087336A58654FB1BAEAD60AD /* UIButton+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		828A6CE4F88922FCBAEFD1201C6DE519 /* OCMConstraint.h in Headers */ = {isa = PBXBuildFile; fileRef = 19D67EFE929524918B19415F0022A11C /* OCMConstraint.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -167,18 +167,18 @@
 		8B5C0BE5D1CEE6B91196F42114382727 /* SPTTestSuite.m in Sources */ = {isa = PBXBuildFile; fileRef = 35DB316681883CEDA720402B44510A78 /* SPTTestSuite.m */; };
 		8BC828D34A454B2318745A923C678BC0 /* Pods-CieloEcommerce_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AD4D8332DD3A05597DAFCADD9195ADD4 /* Pods-CieloEcommerce_Example-dummy.m */; };
 		8BF146F9831D94CA6DF8214922972FA4 /* SPTTestSuite.h in Headers */ = {isa = PBXBuildFile; fileRef = 62E297DDEFEFE1721D5558FD1B685FED /* SPTTestSuite.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8C0C6A9CC3420B3652F60FE2EE4005AE /* EC3Payment.m in Sources */ = {isa = PBXBuildFile; fileRef = 25E1B99550711239B203A49C0F5BBC9F /* EC3Payment.m */; };
+		8C0C6A9CC3420B3652F60FE2EE4005AE /* EC3Payment.m in Sources */ = {isa = PBXBuildFile; fileRef = 29D505E51D408107FE84CA0013930FF6 /* EC3Payment.m */; };
 		8C8C1B0D83FE6A4352F15154DB16372C /* EXPMatcherHelpers.h in Headers */ = {isa = PBXBuildFile; fileRef = 6A6B17DE18F218A39DC5453BA06D513E /* EXPMatcherHelpers.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8E6B4C20863C51B0A0994B69E25706B5 /* SPTSpec.h in Headers */ = {isa = PBXBuildFile; fileRef = 029D0DF1D40F028AF4DCB7E381D3B349 /* SPTSpec.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8EF30D6EE3AD90E917AE94C151BE868D /* NSInvocation+OCMAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = C23A99A9D00E05EECC6493E289F5C770 /* NSInvocation+OCMAdditions.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
-		8FA653DDA28AB37C3AF0E4B5FAD2A7D6 /* EC3Environment.h in Headers */ = {isa = PBXBuildFile; fileRef = A9FA68443A068CE8436DF8C0ECB247B5 /* EC3Environment.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8FA653DDA28AB37C3AF0E4B5FAD2A7D6 /* EC3Environment.h in Headers */ = {isa = PBXBuildFile; fileRef = 8F51ED2CB1D87B789BB1AE97C7E9F1C5 /* EC3Environment.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		90018AAE1E757D360FBCF9ADF09E54DD /* NSDictionary+MTLJSONKeyPath.h in Headers */ = {isa = PBXBuildFile; fileRef = 75E8F61A5C47DCA9881949B166BABF27 /* NSDictionary+MTLJSONKeyPath.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		901552EFFB56ABE2E7757DD31A2FBA95 /* Mantle.h in Headers */ = {isa = PBXBuildFile; fileRef = 48A0BE277A1B69FA6BE27E3EB0D47144 /* Mantle.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9104FDDC0CADE3E7F5454DC0324CFAD2 /* AFNetworking.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57179C7B06250B559B050FF7468FF28F /* AFNetworking.framework */; };
 		91198566612CE44A52747E911A5E57E6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CE42724892606E060CC638AC19D1D1E /* Foundation.framework */; };
 		9142F67621E2B555A2FEF259E5A5A123 /* OCMInvocationStub.m in Sources */ = {isa = PBXBuildFile; fileRef = C3D836C099642D9B50F623666F3CDCC9 /* OCMInvocationStub.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		918E06480F28F27361B19D19432F8538 /* EXPMatchers+endWith.m in Sources */ = {isa = PBXBuildFile; fileRef = 354A8911098611E7892B9041674AE4F8 /* EXPMatchers+endWith.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
-		91DDC31E766BC032DF359D46F9177DD6 /* EC3CreditCard.m in Sources */ = {isa = PBXBuildFile; fileRef = 088659B6BDEBC74B6C87EC71516F1043 /* EC3CreditCard.m */; };
+		91DDC31E766BC032DF359D46F9177DD6 /* EC3CreditCard.m in Sources */ = {isa = PBXBuildFile; fileRef = A00E623D4F2BE5BC0D4649DB27484899 /* EC3CreditCard.m */; };
 		924869A06D77711868AC91B9F896FCDA /* OCMConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 7465AD2A5EA915BDB450DD96CEF20B00 /* OCMConstraint.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		931D410B9F8ACB935883DF8C59F9C93E /* EXPMatchers+postNotification.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B987FD46FCD95E0E5E9A2B7430760EA /* EXPMatchers+postNotification.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		94C47C87E397972CE98F75929F3B706C /* ExpectaObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 712FFC86085CE2854A5600CAB8A34955 /* ExpectaObject.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
@@ -190,14 +190,14 @@
 		9C410230DB93AD3BFB98265DF0CD34E2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CE42724892606E060CC638AC19D1D1E /* Foundation.framework */; };
 		9E1E90DED74B73ECE53C9AD76DE53E2D /* UIImage+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 8A3B8900D20FD2FF09CAF8861D776BD5 /* UIImage+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9F02E2BA6ABF3B0F6D86A014C48F2DC9 /* SPTSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A56B49143BA494CC251C8D92E3342BB /* SPTSpec.m */; };
-		A2B913BBFAA33A365186D33279AFB0E3 /* EC3RequestModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 8544094C8BBCE255B3E36CC75D14FE36 /* EC3RequestModel.m */; };
+		A2B913BBFAA33A365186D33279AFB0E3 /* EC3RequestModel.m in Sources */ = {isa = PBXBuildFile; fileRef = FAA37E130364215EA04CBAD07FF76732 /* EC3RequestModel.m */; };
 		A36E17382449BFE35A69206933BAAE23 /* MTLModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 5DFEE44F32C1D36942F0FF0225A9B15A /* MTLModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A4393F79E3D5628C07E1D9D6F87749F0 /* OCMStubRecorder.h in Headers */ = {isa = PBXBuildFile; fileRef = DCA3623D087292311D4F2B7E926E63E4 /* OCMStubRecorder.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A462945883F7729B185B64B679A6BFBE /* UIWebView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C11D3404B59E95926C01F93BB7A927A /* UIWebView+AFNetworking.m */; };
 		A49832C29637716A807180254EE009F7 /* OCMNotificationPoster.h in Headers */ = {isa = PBXBuildFile; fileRef = E5D482F1B5A3FB148A256261E099C4C8 /* OCMNotificationPoster.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		A6B7C730B8F621AF9EA9ED8F280C00D0 /* OCMArgAction.h in Headers */ = {isa = PBXBuildFile; fileRef = F8829C60834F6A74AE31028C7486AC1B /* OCMArgAction.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		A6C6019D45BE62C61210A9CC619368EF /* AFNetworkActivityIndicatorManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 853EFC10BBAA9B856E3505A8220C72BB /* AFNetworkActivityIndicatorManager.m */; };
-		A7BE7F93B66405C1A5BF28E278488B85 /* EC3RecurrentPayment.m in Sources */ = {isa = PBXBuildFile; fileRef = CBAFEA27B4E30F6A737F6E737413C5C0 /* EC3RecurrentPayment.m */; };
+		A7BE7F93B66405C1A5BF28E278488B85 /* EC3RecurrentPayment.m in Sources */ = {isa = PBXBuildFile; fileRef = A32A6737F1F3A6D5F07FDAAE996DE688 /* EC3RecurrentPayment.m */; };
 		A8C187181C77CEABC83CD9CCFB387089 /* OCClassMockObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 256036742836DE190323BAFF6F1A7C71 /* OCClassMockObject.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		AA29D6EF9537E1DD8DF16AD0B20BC3D0 /* OCMFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = 0562B337E512F0CAE8442091FE354545 /* OCMFunctions.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		AAAC712F6198BB176F2C3AC396C7AB76 /* NSInvocation+OCMAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = FA5E049F3B40133199F4BC4430CE2305 /* NSInvocation+OCMAdditions.h */; settings = {ATTRIBUTES = (Project, ); }; };
@@ -210,7 +210,7 @@
 		AFFC8900E52BBEC72059334132F3A8F3 /* ExpectaSupport.h in Headers */ = {isa = PBXBuildFile; fileRef = 279809AC4B9BF0E4C0C7847FD1EC237D /* ExpectaSupport.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B0CE1166586A35238256CDF1A4C588EA /* OCMRecorder.h in Headers */ = {isa = PBXBuildFile; fileRef = DAA871A745D2AE7044EEFEE03EAFC302 /* OCMRecorder.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B1E6A580368FB895F0E5B59013B16CA8 /* SPTSharedExampleGroups.h in Headers */ = {isa = PBXBuildFile; fileRef = 798BA3D27277C57B6CCC765FA10453BF /* SPTSharedExampleGroups.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B26C710B70B752EB56D2547A3089BE55 /* EC3JSONAdapter.m in Sources */ = {isa = PBXBuildFile; fileRef = BFCDA868706F168244F82EF16C6AE894 /* EC3JSONAdapter.m */; };
+		B26C710B70B752EB56D2547A3089BE55 /* EC3JSONAdapter.m in Sources */ = {isa = PBXBuildFile; fileRef = FF1F28F1F9BF0FE81C7FC121F6CC1675 /* EC3JSONAdapter.m */; };
 		B46F3BB77971DF41EAAC3E360E8C8278 /* SPTExcludeGlobalBeforeAfterEach.h in Headers */ = {isa = PBXBuildFile; fileRef = D58A9E13EFA6405137BE954D3B23287E /* SPTExcludeGlobalBeforeAfterEach.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B47DFDB4257AF169BCEDB4BEDF440C2E /* EXTKeyPathCoding.h in Headers */ = {isa = PBXBuildFile; fileRef = 37E485DFA497658A957AC49D721E6A46 /* EXTKeyPathCoding.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		B4F869A84D05F56D59840B99292C6FC6 /* OCMIndirectReturnValueProvider.m in Sources */ = {isa = PBXBuildFile; fileRef = 486F1F8CF08795A2DD1B12DFED59E49A /* OCMIndirectReturnValueProvider.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
@@ -228,7 +228,7 @@
 		BD98AD015641F205A14D8038E3D054C8 /* SPTExampleGroup.h in Headers */ = {isa = PBXBuildFile; fileRef = 66E90E132814B5B4859D5FFE4E1DAECB /* SPTExampleGroup.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BEFFE9FFE52E9A0833A7D2D8FB67EB4D /* EXPMatchers+beSubclassOf.m in Sources */ = {isa = PBXBuildFile; fileRef = 0681AAFA218F81590B3D406F9AE87EA1 /* EXPMatchers+beSubclassOf.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		C2DD28375E1F0B1D0D1D2E4E607C499F /* AFSecurityPolicy.h in Headers */ = {isa = PBXBuildFile; fileRef = 134A330051958105175168ABC1AB1561 /* AFSecurityPolicy.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C5F061B53B76B72477EEA14DE9929A50 /* EC3JSONAdapter.h in Headers */ = {isa = PBXBuildFile; fileRef = 307588F7051A1940C8683A5F77F4121C /* EC3JSONAdapter.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C5F061B53B76B72477EEA14DE9929A50 /* EC3JSONAdapter.h in Headers */ = {isa = PBXBuildFile; fileRef = C2E52374EF6C5B74C5B75F8841250512 /* EC3JSONAdapter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C6354FEC7728A4C86DAD8092509BA7D4 /* UIRefreshControl+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 67D3E1F064B16A0B71B21595BB595458 /* UIRefreshControl+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C6EFA5642164F4C4672C10970AD3840A /* CieloEcommerce-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A0067947B3E3CA12FDE8B2FD833E9C42 /* CieloEcommerce-dummy.m */; };
 		C740A1BB7F074238985342074C01956E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CE42724892606E060CC638AC19D1D1E /* Foundation.framework */; };
@@ -239,9 +239,9 @@
 		CE3F4ECBB0BC095577D66AE50C8E604C /* EXPFloatTuple.m in Sources */ = {isa = PBXBuildFile; fileRef = C514FD91D14FFF746BA7D9FB8846207A /* EXPFloatTuple.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		CF7C74A41A746CE32F09E3910A0AD1CD /* OCMVerifier.m in Sources */ = {isa = PBXBuildFile; fileRef = 55359EFFF8427B40C516F40D78E7D306 /* OCMVerifier.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		CFA8D6B529A0EBFF0316F2629AB2556E /* AFImageDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F9080FEDE638A2892E098A4BD7192C9 /* AFImageDownloader.m */; };
-		D408CD5CC51CBDD77287282E4304D05C /* EC3CieloEcommerce.h in Headers */ = {isa = PBXBuildFile; fileRef = 49F2AB44DBC7F7C14850E0A3CC17CD28 /* EC3CieloEcommerce.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D408CD5CC51CBDD77287282E4304D05C /* EC3CieloEcommerce.h in Headers */ = {isa = PBXBuildFile; fileRef = CFE05BEFEF7C86AC7FEFE1270F49F08E /* EC3CieloEcommerce.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D690C9F4C1C25C358A71FE14A8473F03 /* Pods-CieloEcommerce_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6DD6AA240E03196FA4911F5622078812 /* Pods-CieloEcommerce_Tests-dummy.m */; };
-		D6F2691AE55B0AB0BEABA272682C3927 /* EC3Environment.m in Sources */ = {isa = PBXBuildFile; fileRef = 50657A16D8454241BA659220C0833077 /* EC3Environment.m */; };
+		D6F2691AE55B0AB0BEABA272682C3927 /* EC3Environment.m in Sources */ = {isa = PBXBuildFile; fileRef = 19E5CC29B183B4C8C96A2CB0D0BF4E60 /* EC3Environment.m */; };
 		D7D6963C385FFEB1612CEFD6DB18F907 /* OCMFunctionsPrivate.h in Headers */ = {isa = PBXBuildFile; fileRef = FD960F4A28AF1DAE440B48CE1BB2288F /* OCMFunctionsPrivate.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		D81171BC97B4287B0ED73A967CA8505C /* NSObject+OCMAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C73542755B90230E56AFE6072C0B086 /* NSObject+OCMAdditions.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		D83677C54D2226C67886A525B0B46FBE /* EXPMatchers+beLessThanOrEqualTo.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C07F4CC80848B2E2D794E09011C290D /* EXPMatchers+beLessThanOrEqualTo.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
@@ -251,7 +251,7 @@
 		DC1D64D723CE79CBE182E82E137B42DD /* SPTGlobalBeforeAfterEach.h in Headers */ = {isa = PBXBuildFile; fileRef = C75434974D4F421932FF4C5CE11ECAF5 /* SPTGlobalBeforeAfterEach.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DC8ED9E1CC997428EA320567DDE4A1D2 /* OCMExceptionReturnValueProvider.m in Sources */ = {isa = PBXBuildFile; fileRef = 049C05D836525DD88DDB994FE84333D3 /* OCMExceptionReturnValueProvider.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		DCE3332BC15377F7990C2876C3831647 /* OCMInvocationMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 49CE33B19A5CFACC6F54161AAA8E62E9 /* OCMInvocationMatcher.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
-		DE84CBD9CDE8846A394918F7B9970F02 /* EC3RequestModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 9E474BB3D5D4B23E755B4B5F22EE725B /* EC3RequestModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DE84CBD9CDE8846A394918F7B9970F02 /* EC3RequestModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 5FF1F9E26F42A24802CB8307B4F77767 /* EC3RequestModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DEF2687019D8CF7B8A460439DEDF0B54 /* OCMBoxedReturnValueProvider.h in Headers */ = {isa = PBXBuildFile; fileRef = A11AA846EB66EB19711465E01446F505 /* OCMBoxedReturnValueProvider.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		DFFA215EEAA8DDBD540076927535275C /* AFURLRequestSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F2C7C88DC4A4D93ED1894592A79912E /* AFURLRequestSerialization.m */; };
 		E0A077DFB064B79685B810CCEFB2F1EF /* EXPMatchers+respondTo.m in Sources */ = {isa = PBXBuildFile; fileRef = 0464517D0559A9ACC8837A8B378CBB7D /* EXPMatchers+respondTo.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
@@ -279,13 +279,13 @@
 		F3BEF3C381FD7B0C632B91F3F95B59FC /* NSValueTransformer+MTLInversionAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = B2CB5817F9DA646584C91E65EA6A545C /* NSValueTransformer+MTLInversionAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F41209A94070904A00BDF24ACB6336B6 /* EXPMatchers+beFalsy.h in Headers */ = {isa = PBXBuildFile; fileRef = B1AEF38E3F71DD051516538E0F356D48 /* EXPMatchers+beFalsy.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F4462480941BEE147E95F06AD457D9BE /* Pods-CieloEcommerce_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1902F26315C57E52C996DB2F6718DD84 /* Pods-CieloEcommerce_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F4703C814A2BECB47BDE7631134AE318 /* EC3Address.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BF8596DF47F3252CBBE935F04397DEE /* EC3Address.m */; };
+		F4703C814A2BECB47BDE7631134AE318 /* EC3Address.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F30E7B500CAF08E790B4CF926D22426 /* EC3Address.m */; };
 		F59647A7B4C72911D933D3C391E473A4 /* OCMObserverRecorder.m in Sources */ = {isa = PBXBuildFile; fileRef = FEBB5735A123DDC56BFBEE2B3C715E68 /* OCMObserverRecorder.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		F5972D51F6EE335382965B9DDEC675D6 /* OCMockObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 420A1BD973F14578FD0C3CD2B6DE9AEA /* OCMockObject.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		F639FCDAA5E2F23E59C47299DE1492D7 /* NSDictionary+MTLManipulationAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = AF673758614A821E47800EC0D06134E8 /* NSDictionary+MTLManipulationAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F670A1CE325983A549120058C7D1B801 /* EC3Sale.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D373388D80C845443B3FCC16FA8FC2F /* EC3Sale.m */; };
+		F670A1CE325983A549120058C7D1B801 /* EC3Sale.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B9CAE0D2388A62C006611399CEDEC23 /* EC3Sale.m */; };
 		F75CB2A727F678C9A848A3A11EA7979B /* EXPMatchers+haveCountOf.h in Headers */ = {isa = PBXBuildFile; fileRef = E3A0E337DE6FCC474242AB9F6241AB56 /* EXPMatchers+haveCountOf.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		FAE94D168B2AB381C71AACC77880C0B4 /* EC3Sale.h in Headers */ = {isa = PBXBuildFile; fileRef = D91A403803D6E792004D424796D6C26E /* EC3Sale.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FAE94D168B2AB381C71AACC77880C0B4 /* EC3Sale.h in Headers */ = {isa = PBXBuildFile; fileRef = 5547F01E4C15C3FF7D0016BF59C65638 /* EC3Sale.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FB56A2F0614574D57185E69B454F7FF2 /* OCMPassByRefSetter.m in Sources */ = {isa = PBXBuildFile; fileRef = 05A1A416355E9BEDA46A6CCA64B11F3D /* OCMPassByRefSetter.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		FC20596ABFE14A61F171A29FD03275E7 /* EXPMatchers+contain.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CC356578257F4151AA9E27AC98FF888 /* EXPMatchers+contain.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		FC45858927D3B6A0F922C4B697B04A38 /* EXPMatchers+match.m in Sources */ = {isa = PBXBuildFile; fileRef = C13EF3B18F7674060E8BEA64A68A1702 /* EXPMatchers+match.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
@@ -372,7 +372,6 @@
 		0562B337E512F0CAE8442091FE354545 /* OCMFunctions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OCMFunctions.m; path = Source/OCMock/OCMFunctions.m; sourceTree = "<group>"; };
 		05A1A416355E9BEDA46A6CCA64B11F3D /* OCMPassByRefSetter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OCMPassByRefSetter.m; path = Source/OCMock/OCMPassByRefSetter.m; sourceTree = "<group>"; };
 		0681AAFA218F81590B3D406F9AE87EA1 /* EXPMatchers+beSubclassOf.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "EXPMatchers+beSubclassOf.m"; path = "Expecta/Matchers/EXPMatchers+beSubclassOf.m"; sourceTree = "<group>"; };
-		088659B6BDEBC74B6C87EC71516F1043 /* EC3CreditCard.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = EC3CreditCard.m; sourceTree = "<group>"; };
 		08B8F064FD57BFF262EA8D86B98C51F5 /* EXPMatchers+beSubclassOf.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "EXPMatchers+beSubclassOf.h"; path = "Expecta/Matchers/EXPMatchers+beSubclassOf.h"; sourceTree = "<group>"; };
 		09E2959B11A94ECA42BF93405BB4FF5F /* MTLJSONAdapter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MTLJSONAdapter.h; path = Mantle/MTLJSONAdapter.h; sourceTree = "<group>"; };
 		09E5B40855335FCC6752B7EA127B65F0 /* OCMock.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = OCMock.xcconfig; sourceTree = "<group>"; };
@@ -380,7 +379,6 @@
 		0AA76B96B302FDE81A5A547AB9C0B252 /* OCMock-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "OCMock-umbrella.h"; sourceTree = "<group>"; };
 		0B346EB52DFC86FD80BF4C9FF2BDC562 /* NSError+MTLModelException.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSError+MTLModelException.h"; path = "Mantle/NSError+MTLModelException.h"; sourceTree = "<group>"; };
 		0CBE9649FC753D0AF99D4BD001050FEB /* UIProgressView+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIProgressView+AFNetworking.h"; path = "UIKit+AFNetworking/UIProgressView+AFNetworking.h"; sourceTree = "<group>"; };
-		0D373388D80C845443B3FCC16FA8FC2F /* EC3Sale.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = EC3Sale.m; sourceTree = "<group>"; };
 		0DA78E0C891AFE7C4AE7BFF9660BDE99 /* OCPartialMockObject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCPartialMockObject.h; path = Source/OCMock/OCPartialMockObject.h; sourceTree = "<group>"; };
 		0DFDDB674E20ED1A52C974E1EEA78AF1 /* EXPMatchers+respondTo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "EXPMatchers+respondTo.h"; path = "Expecta/Matchers/EXPMatchers+respondTo.h"; sourceTree = "<group>"; };
 		0F37108D06E6C2492F3F7A16D72B4317 /* MTLValueTransformer.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MTLValueTransformer.m; path = Mantle/MTLValueTransformer.m; sourceTree = "<group>"; };
@@ -400,8 +398,11 @@
 		194D028A4CB9073130C1DB7553EAFAEA /* Pods-CieloEcommerce_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CieloEcommerce_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		1980ED6B247D3B27E88BC8D18561F0CC /* NSError+MTLModelException.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSError+MTLModelException.m"; path = "Mantle/NSError+MTLModelException.m"; sourceTree = "<group>"; };
 		19D67EFE929524918B19415F0022A11C /* OCMConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCMConstraint.h; path = Source/OCMock/OCMConstraint.h; sourceTree = "<group>"; };
+		19E5CC29B183B4C8C96A2CB0D0BF4E60 /* EC3Environment.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = EC3Environment.m; sourceTree = "<group>"; };
 		1A6F8144F30D4603D91EEAAF5BCA1D71 /* EXPMatchers+postNotification.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "EXPMatchers+postNotification.h"; path = "Expecta/Matchers/EXPMatchers+postNotification.h"; sourceTree = "<group>"; };
+		1ADFB2FFE23BA05F4BB5D0C87BF75159 /* EC3Customer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = EC3Customer.h; sourceTree = "<group>"; };
 		1B599630C970D23FF98FA49ED95EF935 /* UIActivityIndicatorView+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIActivityIndicatorView+AFNetworking.m"; path = "UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m"; sourceTree = "<group>"; };
+		1B9CAE0D2388A62C006611399CEDEC23 /* EC3Sale.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = EC3Sale.m; sourceTree = "<group>"; };
 		1C11D3404B59E95926C01F93BB7A927A /* UIWebView+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIWebView+AFNetworking.m"; path = "UIKit+AFNetworking/UIWebView+AFNetworking.m"; sourceTree = "<group>"; };
 		1CB27D8C05F6AB8865DEC2BA2560E1CF /* OCMReturnValueProvider.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCMReturnValueProvider.h; path = Source/OCMock/OCMReturnValueProvider.h; sourceTree = "<group>"; };
 		1CC356578257F4151AA9E27AC98FF888 /* EXPMatchers+contain.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "EXPMatchers+contain.m"; path = "Expecta/Matchers/EXPMatchers+contain.m"; sourceTree = "<group>"; };
@@ -417,25 +418,24 @@
 		2575B8BC9419D8536277849F6379AA76 /* AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFNetworking.h; path = AFNetworking/AFNetworking.h; sourceTree = "<group>"; };
 		2599B2522E5CFB5E187FC2D6BC6587D0 /* EXPMatchers+beSupersetOf.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "EXPMatchers+beSupersetOf.h"; path = "Expecta/Matchers/EXPMatchers+beSupersetOf.h"; sourceTree = "<group>"; };
 		259F05361D6CCEE5DEC56384A317D564 /* Pods-CieloEcommerce_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CieloEcommerce_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		25E1B99550711239B203A49C0F5BBC9F /* EC3Payment.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = EC3Payment.m; sourceTree = "<group>"; };
 		27060FDA7DE83F46A37C7821CE2FFFCB /* EXPMatchers+beInTheRangeOf.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "EXPMatchers+beInTheRangeOf.m"; path = "Expecta/Matchers/EXPMatchers+beInTheRangeOf.m"; sourceTree = "<group>"; };
 		279809AC4B9BF0E4C0C7847FD1EC237D /* ExpectaSupport.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ExpectaSupport.h; path = Expecta/ExpectaSupport.h; sourceTree = "<group>"; };
 		27A0635D9584AE95FE9A719DD5D8BF17 /* EXPDoubleTuple.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = EXPDoubleTuple.m; path = Expecta/EXPDoubleTuple.m; sourceTree = "<group>"; };
 		284B93E5963F55217BFCF852EF1B401F /* EXTRuntimeExtensions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EXTRuntimeExtensions.h; path = Mantle/extobjc/EXTRuntimeExtensions.h; sourceTree = "<group>"; };
 		288A8A6E0331A1B773D6578344E82D2E /* AFNetworking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AFNetworking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		29C981DD0B0F28CD6E316C735978CDC4 /* NSObject+Expecta.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSObject+Expecta.h"; path = "Expecta/NSObject+Expecta.h"; sourceTree = "<group>"; };
+		29D505E51D408107FE84CA0013930FF6 /* EC3Payment.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = EC3Payment.m; sourceTree = "<group>"; };
+		2A131B4E3D2453A05B21F230045B7D7C /* EC3CieloEcommerce.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = EC3CieloEcommerce.m; sourceTree = "<group>"; };
 		2B987FD46FCD95E0E5E9A2B7430760EA /* EXPMatchers+postNotification.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "EXPMatchers+postNotification.m"; path = "Expecta/Matchers/EXPMatchers+postNotification.m"; sourceTree = "<group>"; };
 		2C07F4CC80848B2E2D794E09011C290D /* EXPMatchers+beLessThanOrEqualTo.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "EXPMatchers+beLessThanOrEqualTo.m"; path = "Expecta/Matchers/EXPMatchers+beLessThanOrEqualTo.m"; sourceTree = "<group>"; };
 		2F2C7C88DC4A4D93ED1894592A79912E /* AFURLRequestSerialization.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFURLRequestSerialization.m; path = AFNetworking/AFURLRequestSerialization.m; sourceTree = "<group>"; };
 		3027EBBBA6960C20C7374BD0D2309212 /* OCMockObject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCMockObject.h; path = Source/OCMock/OCMockObject.h; sourceTree = "<group>"; };
-		307588F7051A1940C8683A5F77F4121C /* EC3JSONAdapter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = EC3JSONAdapter.h; sourceTree = "<group>"; };
 		316F8D02469EB61E42DB3EE0F8A3BFC9 /* Expecta.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Expecta.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		322D5D7F61A6C2B926A2CEA2DAE85DD4 /* EXPMatchers+raiseWithReason.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "EXPMatchers+raiseWithReason.m"; path = "Expecta/Matchers/EXPMatchers+raiseWithReason.m"; sourceTree = "<group>"; };
 		33668654F2A67083F15CD5ED5572AACC /* OCMVerifier.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCMVerifier.h; path = Source/OCMock/OCMVerifier.h; sourceTree = "<group>"; };
 		33DF598232BD35BB71219DAB7B09C5D9 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		354A8911098611E7892B9041674AE4F8 /* EXPMatchers+endWith.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "EXPMatchers+endWith.m"; path = "Expecta/Matchers/EXPMatchers+endWith.m"; sourceTree = "<group>"; };
 		35DB316681883CEDA720402B44510A78 /* SPTTestSuite.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SPTTestSuite.m; path = Specta/Specta/SPTTestSuite.m; sourceTree = "<group>"; };
-		3741BED245647B673D2E7412245312BD /* EC3Payment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = EC3Payment.h; sourceTree = "<group>"; };
 		37E485DFA497658A957AC49D721E6A46 /* EXTKeyPathCoding.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EXTKeyPathCoding.h; path = Mantle/extobjc/EXTKeyPathCoding.h; sourceTree = "<group>"; };
 		384E5E7EAEDD149A9DB0443B23973F05 /* UIWebView+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIWebView+AFNetworking.h"; path = "UIKit+AFNetworking/UIWebView+AFNetworking.h"; sourceTree = "<group>"; };
 		3A56B49143BA494CC251C8D92E3342BB /* SPTSpec.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SPTSpec.m; path = Specta/Specta/SPTSpec.m; sourceTree = "<group>"; };
@@ -454,10 +454,7 @@
 		48A0BE277A1B69FA6BE27E3EB0D47144 /* Mantle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Mantle.h; path = Mantle/Mantle.h; sourceTree = "<group>"; };
 		494744D3344CE7096D17D3A6EE92CE38 /* Pods-CieloEcommerce_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CieloEcommerce_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		49CE33B19A5CFACC6F54161AAA8E62E9 /* OCMInvocationMatcher.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OCMInvocationMatcher.m; path = Source/OCMock/OCMInvocationMatcher.m; sourceTree = "<group>"; };
-		49F2AB44DBC7F7C14850E0A3CC17CD28 /* EC3CieloEcommerce.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = EC3CieloEcommerce.h; sourceTree = "<group>"; };
-		4C92EEB02A50B71B110140845429D648 /* EC3Merchant.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = EC3Merchant.h; sourceTree = "<group>"; };
 		4CE42724892606E060CC638AC19D1D1E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		50657A16D8454241BA659220C0833077 /* EC3Environment.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = EC3Environment.m; sourceTree = "<group>"; };
 		516FF57E312033E31F7812EC9703D251 /* UIProgressView+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIProgressView+AFNetworking.m"; path = "UIKit+AFNetworking/UIProgressView+AFNetworking.m"; sourceTree = "<group>"; };
 		536D06BC23829DA5C76E0D3AEF84C66C /* OCMExpectationRecorder.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OCMExpectationRecorder.m; path = Source/OCMock/OCMExpectationRecorder.m; sourceTree = "<group>"; };
 		53F100DEE50DB18E0AC23F03556A0DFA /* OCMArg.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OCMArg.m; path = Source/OCMock/OCMArg.m; sourceTree = "<group>"; };
@@ -467,6 +464,7 @@
 		54C94C1F85B83DF1008079D13A3B4A20 /* AFURLSessionManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFURLSessionManager.m; path = AFNetworking/AFURLSessionManager.m; sourceTree = "<group>"; };
 		54E8F1626C03A2BB07782157274753AA /* AFURLSessionManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFURLSessionManager.h; path = AFNetworking/AFURLSessionManager.h; sourceTree = "<group>"; };
 		55359EFFF8427B40C516F40D78E7D306 /* OCMVerifier.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OCMVerifier.m; path = Source/OCMock/OCMVerifier.m; sourceTree = "<group>"; };
+		5547F01E4C15C3FF7D0016BF59C65638 /* EC3Sale.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = EC3Sale.h; sourceTree = "<group>"; };
 		555E667A68B80F03111F413627EE1F19 /* OCMock.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = OCMock.modulemap; sourceTree = "<group>"; };
 		570F0BABA70B6E5FFABA0E5AC8C4FCBA /* EXPMatchers+beGreaterThan.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "EXPMatchers+beGreaterThan.h"; path = "Expecta/Matchers/EXPMatchers+beGreaterThan.h"; sourceTree = "<group>"; };
 		57179C7B06250B559B050FF7468FF28F /* AFNetworking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AFNetworking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -482,6 +480,7 @@
 		5DFEE44F32C1D36942F0FF0225A9B15A /* MTLModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MTLModel.h; path = Mantle/MTLModel.h; sourceTree = "<group>"; };
 		5EA0BE50C756CC3938BD46AFF247822F /* EXPMatchers+beLessThan.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "EXPMatchers+beLessThan.h"; path = "Expecta/Matchers/EXPMatchers+beLessThan.h"; sourceTree = "<group>"; };
 		5FA6BB0354CB6AA86487F0A272EAEA92 /* EXPUnsupportedObject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EXPUnsupportedObject.h; path = Expecta/EXPUnsupportedObject.h; sourceTree = "<group>"; };
+		5FF1F9E26F42A24802CB8307B4F77767 /* EC3RequestModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = EC3RequestModel.h; sourceTree = "<group>"; };
 		60B70846CF21B730EB1B032700B54B93 /* NSNotificationCenter+OCMAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSNotificationCenter+OCMAdditions.m"; path = "Source/OCMock/NSNotificationCenter+OCMAdditions.m"; sourceTree = "<group>"; };
 		6213E01F3871225E76C7BF83400A4967 /* NSArray+MTLManipulationAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSArray+MTLManipulationAdditions.h"; path = "Mantle/NSArray+MTLManipulationAdditions.h"; sourceTree = "<group>"; };
 		624D3A8F35AB336AAB6A3E0DBF39899C /* EXPMatchers.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EXPMatchers.h; path = Expecta/Matchers/EXPMatchers.h; sourceTree = "<group>"; };
@@ -491,6 +490,7 @@
 		64718C87393C98F9DEC4F2F902D6FE24 /* Pods-CieloEcommerce_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CieloEcommerce_Tests-resources.sh"; sourceTree = "<group>"; };
 		652A786C90D0D8540234F3F7FE690FCE /* SpectaDSL.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SpectaDSL.h; path = Specta/Specta/SpectaDSL.h; sourceTree = "<group>"; };
 		65479CC6C7058EC41230EE98770C64F1 /* EXPMatcher.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EXPMatcher.h; path = Expecta/EXPMatcher.h; sourceTree = "<group>"; };
+		66ACC6FCF11676C7A98417185D2ACEB4 /* EC3Merchant.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = EC3Merchant.m; sourceTree = "<group>"; };
 		66E90E132814B5B4859D5FFE4E1DAECB /* SPTExampleGroup.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SPTExampleGroup.h; path = Specta/Specta/SPTExampleGroup.h; sourceTree = "<group>"; };
 		67989DFF4377DAF1F143A689289401C2 /* NSValue+OCMAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSValue+OCMAdditions.h"; path = "Source/OCMock/NSValue+OCMAdditions.h"; sourceTree = "<group>"; };
 		67D3856CAAB8FAF053BCFC4DCDB640E8 /* EXPMatchers+beGreaterThanOrEqualTo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "EXPMatchers+beGreaterThanOrEqualTo.h"; path = "Expecta/Matchers/EXPMatchers+beGreaterThanOrEqualTo.h"; sourceTree = "<group>"; };
@@ -509,13 +509,13 @@
 		71DCCA1867528E1A8D44C7F99984CFF3 /* MTLReflection.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MTLReflection.m; path = Mantle/MTLReflection.m; sourceTree = "<group>"; };
 		7256973DA7BDA5C93FBEBADC007EB110 /* EXPMatchers+endWith.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "EXPMatchers+endWith.h"; path = "Expecta/Matchers/EXPMatchers+endWith.h"; sourceTree = "<group>"; };
 		72A7D8BD70FE9105AD0AD21B29E1DF65 /* OCClassMockObject.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OCClassMockObject.m; path = Source/OCMock/OCClassMockObject.m; sourceTree = "<group>"; };
+		7348072EC275C4E1B506F8AECD5BEE79 /* EC3Address.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = EC3Address.h; sourceTree = "<group>"; };
 		7465AD2A5EA915BDB450DD96CEF20B00 /* OCMConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OCMConstraint.m; path = Source/OCMock/OCMConstraint.m; sourceTree = "<group>"; };
 		74FEFE78A1D1328FF84BC6EDDB7E385F /* EXPMatchers+beNil.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "EXPMatchers+beNil.h"; path = "Expecta/Matchers/EXPMatchers+beNil.h"; sourceTree = "<group>"; };
 		75E8F61A5C47DCA9881949B166BABF27 /* NSDictionary+MTLJSONKeyPath.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSDictionary+MTLJSONKeyPath.h"; path = "Mantle/NSDictionary+MTLJSONKeyPath.h"; sourceTree = "<group>"; };
-		784F72805CABA5E80BDDA50A2C20103A /* EC3Customer.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = EC3Customer.m; sourceTree = "<group>"; };
+		768A8223E3D10E073E62C7C14741CDD6 /* EC3Customer.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = EC3Customer.m; sourceTree = "<group>"; };
 		78C080F23E37DC68D0533E26A41676CE /* SPTCompiledExample.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SPTCompiledExample.h; path = Specta/Specta/SPTCompiledExample.h; sourceTree = "<group>"; };
 		798BA3D27277C57B6CCC765FA10453BF /* SPTSharedExampleGroups.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SPTSharedExampleGroups.h; path = Specta/Specta/SPTSharedExampleGroups.h; sourceTree = "<group>"; };
-		7C38E7AA70C06FE1BA6F74F92363A3B6 /* EC3Merchant.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = EC3Merchant.m; sourceTree = "<group>"; };
 		7C58E33C431328C3FC0A86D5D45DC660 /* XCTestCase+Specta.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "XCTestCase+Specta.m"; path = "Specta/Specta/XCTestCase+Specta.m"; sourceTree = "<group>"; };
 		7E2D677A27651E99B992A92F88BCD8B6 /* AFNetworking-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AFNetworking-prefix.pch"; sourceTree = "<group>"; };
 		7EAC03D24A7B2CB00567FA7D7D06F6BA /* OCMBlockArgCaller.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCMBlockArgCaller.h; path = Source/OCMock/OCMBlockArgCaller.h; sourceTree = "<group>"; };
@@ -523,7 +523,6 @@
 		800F43C352CBB0F459C9CC346138E579 /* NSNotificationCenter+OCMAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSNotificationCenter+OCMAdditions.h"; path = "Source/OCMock/NSNotificationCenter+OCMAdditions.h"; sourceTree = "<group>"; };
 		851BE03DF536966DDEAD11CF6158231E /* Specta.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Specta.xcconfig; sourceTree = "<group>"; };
 		853EFC10BBAA9B856E3505A8220C72BB /* AFNetworkActivityIndicatorManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFNetworkActivityIndicatorManager.m; path = "UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m"; sourceTree = "<group>"; };
-		8544094C8BBCE255B3E36CC75D14FE36 /* EC3RequestModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = EC3RequestModel.m; sourceTree = "<group>"; };
 		85D647116F00A697DB2A2CA7362EE630 /* EXPUnsupportedObject.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = EXPUnsupportedObject.m; path = Expecta/EXPUnsupportedObject.m; sourceTree = "<group>"; };
 		862CE5A530067D4D266370BB181BEEC2 /* Pods-CieloEcommerce_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CieloEcommerce_Example-umbrella.h"; sourceTree = "<group>"; };
 		873A4E240BC3DD9E63BA92A5D7624737 /* OCMNotificationPoster.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OCMNotificationPoster.m; path = Source/OCMock/OCMNotificationPoster.m; sourceTree = "<group>"; };
@@ -534,10 +533,13 @@
 		8A485C5144BEAC49DD6D4C35DF01B0BD /* EXPMatchers+beInTheRangeOf.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "EXPMatchers+beInTheRangeOf.h"; path = "Expecta/Matchers/EXPMatchers+beInTheRangeOf.h"; sourceTree = "<group>"; };
 		8AFC2E982E08F53BD74C5912C87E7608 /* EXPMatchers+beGreaterThan.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "EXPMatchers+beGreaterThan.m"; path = "Expecta/Matchers/EXPMatchers+beGreaterThan.m"; sourceTree = "<group>"; };
 		8B5491859250527EF30B6711FE7A09D2 /* Specta.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Specta.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8BA7F217DEF270181BAC5D89497632DD /* EC3Payment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = EC3Payment.h; sourceTree = "<group>"; };
 		8C73542755B90230E56AFE6072C0B086 /* NSObject+OCMAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSObject+OCMAdditions.m"; path = "Source/OCMock/NSObject+OCMAdditions.m"; sourceTree = "<group>"; };
 		8DB551BC371584BB5C681B6110777BF5 /* SPTExampleGroup.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SPTExampleGroup.m; path = Specta/Specta/SPTExampleGroup.m; sourceTree = "<group>"; };
 		8DD4CEFB769B89C5BBFD6D01C680C4FB /* NSObject+OCMAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSObject+OCMAdditions.h"; path = "Source/OCMock/NSObject+OCMAdditions.h"; sourceTree = "<group>"; };
+		8F30E7B500CAF08E790B4CF926D22426 /* EC3Address.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = EC3Address.m; sourceTree = "<group>"; };
 		8F342F97ED4E34DFB179735020E5355A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/CoreGraphics.framework; sourceTree = DEVELOPER_DIR; };
+		8F51ED2CB1D87B789BB1AE97C7E9F1C5 /* EC3Environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = EC3Environment.h; sourceTree = "<group>"; };
 		90B530B1865F97F1EC13A963F3997229 /* NSMethodSignature+OCMAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSMethodSignature+OCMAdditions.h"; path = "Source/OCMock/NSMethodSignature+OCMAdditions.h"; sourceTree = "<group>"; };
 		90F9E42AF01AF05FA7E9E9BAFAF5A4F4 /* Mantle-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Mantle-dummy.m"; sourceTree = "<group>"; };
 		92A5BC6A48D24A3E80F6F03EB8A7D2ED /* Expecta.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = Expecta.modulemap; sourceTree = "<group>"; };
@@ -546,24 +548,23 @@
 		95CC0E709BFAC342D3891E0A14E42666 /* OCMMacroState.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCMMacroState.h; path = Source/OCMock/OCMMacroState.h; sourceTree = "<group>"; };
 		9713FD2E96FC8391AAE67DC21C3757BA /* Expecta-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Expecta-dummy.m"; sourceTree = "<group>"; };
 		986E0F21A78CA0F1B4E4A3F77145C383 /* EXPMatchers+conformTo.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "EXPMatchers+conformTo.m"; path = "Expecta/Matchers/EXPMatchers+conformTo.m"; sourceTree = "<group>"; };
-		9BF8596DF47F3252CBBE935F04397DEE /* EC3Address.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = EC3Address.m; sourceTree = "<group>"; };
 		9D075133A1C05E5FA70C82530B0D8279 /* MTLModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MTLModel.m; path = Mantle/MTLModel.m; sourceTree = "<group>"; };
-		9E474BB3D5D4B23E755B4B5F22EE725B /* EC3RequestModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = EC3RequestModel.h; sourceTree = "<group>"; };
 		9F97449D3A7AF0D9A8F67A5178B6316D /* AFAutoPurgingImageCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFAutoPurgingImageCache.h; path = "UIKit+AFNetworking/AFAutoPurgingImageCache.h"; sourceTree = "<group>"; };
 		A0067947B3E3CA12FDE8B2FD833E9C42 /* CieloEcommerce-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CieloEcommerce-dummy.m"; sourceTree = "<group>"; };
+		A00E623D4F2BE5BC0D4649DB27484899 /* EC3CreditCard.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = EC3CreditCard.m; sourceTree = "<group>"; };
 		A0D5793413D647A23C5F0BE4E90D037F /* EXPMatchers+equal.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "EXPMatchers+equal.m"; path = "Expecta/Matchers/EXPMatchers+equal.m"; sourceTree = "<group>"; };
 		A11AA846EB66EB19711465E01446F505 /* OCMBoxedReturnValueProvider.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCMBoxedReturnValueProvider.h; path = Source/OCMock/OCMBoxedReturnValueProvider.h; sourceTree = "<group>"; };
 		A164D3FD1D2EE99C4EEE6CC95EF20B33 /* NSObject+MTLComparisonAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSObject+MTLComparisonAdditions.m"; path = "Mantle/NSObject+MTLComparisonAdditions.m"; sourceTree = "<group>"; };
 		A1861E6B1779CA5336D7447B418BD54C /* OCObserverMockObject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCObserverMockObject.h; path = Source/OCMock/OCObserverMockObject.h; sourceTree = "<group>"; };
 		A1F85EC07806D1DE29C2B56283242EB4 /* AFNetworkReachabilityManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFNetworkReachabilityManager.m; path = AFNetworking/AFNetworkReachabilityManager.m; sourceTree = "<group>"; };
 		A2A0B0C10581A62D08CEC01F21EC3DBD /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A32A6737F1F3A6D5F07FDAAE996DE688 /* EC3RecurrentPayment.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = EC3RecurrentPayment.m; sourceTree = "<group>"; };
 		A597807308239208F1480BECE709A278 /* XCTestCase+Specta.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "XCTestCase+Specta.h"; path = "Specta/Specta/XCTestCase+Specta.h"; sourceTree = "<group>"; };
 		A5A0683CD65ABFB6AEFD4D137459BAA7 /* Pods-CieloEcommerce_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CieloEcommerce_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		A796EBFC1C839694A0E8A60E74C406E6 /* EC3Address.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = EC3Address.h; sourceTree = "<group>"; };
+		A62E69467E1813EC49D9221CE6E56751 /* EC3RecurrentPayment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = EC3RecurrentPayment.h; sourceTree = "<group>"; };
 		A7FC5A1C2293C593CE754A019378936A /* CieloEcommerce-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CieloEcommerce-prefix.pch"; sourceTree = "<group>"; };
 		A8A5FE46498531758E12089F3F6AEC3A /* AFHTTPSessionManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFHTTPSessionManager.h; path = AFNetworking/AFHTTPSessionManager.h; sourceTree = "<group>"; };
 		A8FC321D0B17C5C807228EF478478915 /* OCMReturnValueProvider.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OCMReturnValueProvider.m; path = Source/OCMock/OCMReturnValueProvider.m; sourceTree = "<group>"; };
-		A9FA68443A068CE8436DF8C0ECB247B5 /* EC3Environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = EC3Environment.h; sourceTree = "<group>"; };
 		AA463A66AB652705A401387C1BCA15A5 /* OCMExpectationRecorder.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCMExpectationRecorder.h; path = Source/OCMock/OCMExpectationRecorder.h; sourceTree = "<group>"; };
 		AB522D5DC727B5C1D57DC11324DFD6EF /* NSValue+Expecta.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSValue+Expecta.h"; path = "Expecta/NSValue+Expecta.h"; sourceTree = "<group>"; };
 		AB59AAE06CCE6494BCF7BE32B9785BFD /* EXPBlockDefinedMatcher.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EXPBlockDefinedMatcher.h; path = Expecta/EXPBlockDefinedMatcher.h; sourceTree = "<group>"; };
@@ -590,12 +591,9 @@
 		B94B914DB59CDFBE9D01088C05B85ECD /* Specta.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = Specta.modulemap; sourceTree = "<group>"; };
 		BB2E917431EBE210EFC01FF28AB3A4C3 /* OCMBlockCaller.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCMBlockCaller.h; path = Source/OCMock/OCMBlockCaller.h; sourceTree = "<group>"; };
 		BBADC18E57A4ECBD73E30819106060BE /* EXPMatchers+raise.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "EXPMatchers+raise.h"; path = "Expecta/Matchers/EXPMatchers+raise.h"; sourceTree = "<group>"; };
-		BC548905070776360742CE2B79743E37 /* EC3CieloEcommerce.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = EC3CieloEcommerce.m; sourceTree = "<group>"; };
 		BCAB27900CB7B1C1614CBB46D4B6085D /* EXPMatchers+beKindOf.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "EXPMatchers+beKindOf.m"; path = "Expecta/Matchers/EXPMatchers+beKindOf.m"; sourceTree = "<group>"; };
-		BD80F059DF7874BAA7B9E6B6E6E915F2 /* EC3Customer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = EC3Customer.h; sourceTree = "<group>"; };
 		BDBB365D39C659F2C18C8D861FBAA3A7 /* EXPExpect.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = EXPExpect.m; path = Expecta/EXPExpect.m; sourceTree = "<group>"; };
 		BDF09E9B093D0DD9F956CE7818EC20D2 /* CieloEcommerce.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CieloEcommerce.xcconfig; sourceTree = "<group>"; };
-		BFCDA868706F168244F82EF16C6AE894 /* EC3JSONAdapter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = EC3JSONAdapter.m; sourceTree = "<group>"; };
 		C083DD2E4367E050F9E565AE06D17CEA /* OCProtocolMockObject.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OCProtocolMockObject.m; path = Source/OCMock/OCProtocolMockObject.m; sourceTree = "<group>"; };
 		C11247826E3379382B7132AD20B79D0B /* OCMFunctions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCMFunctions.h; path = Source/OCMock/OCMFunctions.h; sourceTree = "<group>"; };
 		C128794F4E2F4CCCA3B1DA7FDFD84F13 /* AFImageDownloader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFImageDownloader.h; path = "UIKit+AFNetworking/AFImageDownloader.h"; sourceTree = "<group>"; };
@@ -604,6 +602,7 @@
 		C23A99A9D00E05EECC6493E289F5C770 /* NSInvocation+OCMAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSInvocation+OCMAdditions.m"; path = "Source/OCMock/NSInvocation+OCMAdditions.m"; sourceTree = "<group>"; };
 		C274A6BA314729A2DDBB0FADF912E5C7 /* EXPMatchers+beLessThanOrEqualTo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "EXPMatchers+beLessThanOrEqualTo.h"; path = "Expecta/Matchers/EXPMatchers+beLessThanOrEqualTo.h"; sourceTree = "<group>"; };
 		C291E0AF86C6083F670898F797B6D98A /* AFNetworking.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = AFNetworking.modulemap; sourceTree = "<group>"; };
+		C2E52374EF6C5B74C5B75F8841250512 /* EC3JSONAdapter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = EC3JSONAdapter.h; sourceTree = "<group>"; };
 		C3D836C099642D9B50F623666F3CDCC9 /* OCMInvocationStub.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OCMInvocationStub.m; path = Source/OCMock/OCMInvocationStub.m; sourceTree = "<group>"; };
 		C40017D6E46EB67B92D12651614BDA29 /* CieloEcommerce.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CieloEcommerce.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C43B985901955C92C1309B160175018B /* Mantle.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Mantle.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -620,11 +619,11 @@
 		CA065F1216697A69D20D060E174603C9 /* EXPMatchers+beNil.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "EXPMatchers+beNil.m"; path = "Expecta/Matchers/EXPMatchers+beNil.m"; sourceTree = "<group>"; };
 		CA7E6BD72ED5DA378FE12B0E5528E43B /* AFURLRequestSerialization.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFURLRequestSerialization.h; path = AFNetworking/AFURLRequestSerialization.h; sourceTree = "<group>"; };
 		CAD638AF1276E4AC9C703B6B3B655981 /* SPTCallSite.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SPTCallSite.h; path = Specta/Specta/SPTCallSite.h; sourceTree = "<group>"; };
-		CBAFEA27B4E30F6A737F6E737413C5C0 /* EC3RecurrentPayment.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = EC3RecurrentPayment.m; sourceTree = "<group>"; };
 		CD42BFA3087336A58654FB1BAEAD60AD /* UIButton+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIButton+AFNetworking.h"; path = "UIKit+AFNetworking/UIButton+AFNetworking.h"; sourceTree = "<group>"; };
 		CEC0678F1C7E3F20B2E6E02CADF408D4 /* AFNetworkReachabilityManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFNetworkReachabilityManager.h; path = AFNetworking/AFNetworkReachabilityManager.h; sourceTree = "<group>"; };
 		CFD8D3A0018241E1021D8987557FAF0C /* OCPartialMockObject.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OCPartialMockObject.m; path = Source/OCMock/OCPartialMockObject.m; sourceTree = "<group>"; };
 		CFDABBAFD96076FDABAA61ED24F3763E /* MTLModel+NSCoding.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MTLModel+NSCoding.h"; path = "Mantle/MTLModel+NSCoding.h"; sourceTree = "<group>"; };
+		CFE05BEFEF7C86AC7FEFE1270F49F08E /* EC3CieloEcommerce.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = EC3CieloEcommerce.h; sourceTree = "<group>"; };
 		D2346EB3163B375D9D7DCC98F69A35A4 /* EXPMatchers+beIdenticalTo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "EXPMatchers+beIdenticalTo.h"; path = "Expecta/Matchers/EXPMatchers+beIdenticalTo.h"; sourceTree = "<group>"; };
 		D33559C12773E81DE1343C7AF797E31D /* EXPMatchers+haveCountOf.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "EXPMatchers+haveCountOf.m"; path = "Expecta/Matchers/EXPMatchers+haveCountOf.m"; sourceTree = "<group>"; };
 		D424606CB05FBBAD84636385BFCEAACB /* Pods-CieloEcommerce_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CieloEcommerce_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
@@ -635,12 +634,10 @@
 		D79CEA42F1F4A6C4C7EB742A0F0B9FB8 /* EXPMatchers+beFalsy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "EXPMatchers+beFalsy.m"; path = "Expecta/Matchers/EXPMatchers+beFalsy.m"; sourceTree = "<group>"; };
 		D83F8A883C280C92D61B866C96CC5026 /* NSValue+Expecta.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSValue+Expecta.m"; path = "Expecta/NSValue+Expecta.m"; sourceTree = "<group>"; };
 		D8859121CE3A72C58B67E604681ABADC /* AFNetworking-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AFNetworking-umbrella.h"; sourceTree = "<group>"; };
-		D91A403803D6E792004D424796D6C26E /* EC3Sale.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = EC3Sale.h; sourceTree = "<group>"; };
 		D9A3373FA6C04ED56D7D8F5D7EFC4AAD /* AFSecurityPolicy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFSecurityPolicy.m; path = AFNetworking/AFSecurityPolicy.m; sourceTree = "<group>"; };
 		DA8D93F71EE13EB51548A6016338AD61 /* NSValueTransformer+MTLPredefinedTransformerAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSValueTransformer+MTLPredefinedTransformerAdditions.m"; path = "Mantle/NSValueTransformer+MTLPredefinedTransformerAdditions.m"; sourceTree = "<group>"; };
 		DAA871A745D2AE7044EEFEE03EAFC302 /* OCMRecorder.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCMRecorder.h; path = Source/OCMock/OCMRecorder.h; sourceTree = "<group>"; };
 		DCA3623D087292311D4F2B7E926E63E4 /* OCMStubRecorder.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCMStubRecorder.h; path = Source/OCMock/OCMStubRecorder.h; sourceTree = "<group>"; };
-		DD17DF3398F2AB36A4FFB994054BA78E /* EC3RecurrentPayment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = EC3RecurrentPayment.h; sourceTree = "<group>"; };
 		DE2459A45CDB56A3F53935D93094FB6D /* Expecta.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Expecta.h; path = Expecta/Expecta.h; sourceTree = "<group>"; };
 		DE32FF9592EC5BE19558CEF6CB13C852 /* Mantle-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Mantle-umbrella.h"; sourceTree = "<group>"; };
 		DEB1ACD490D00FE34DCF7E3AA328A481 /* Pods-CieloEcommerce_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-CieloEcommerce_Tests.modulemap"; sourceTree = "<group>"; };
@@ -654,7 +651,6 @@
 		E512AFE5680647419AED58ED6665D38B /* SpectaUtility.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SpectaUtility.h; path = Specta/Specta/SpectaUtility.h; sourceTree = "<group>"; };
 		E5D482F1B5A3FB148A256261E099C4C8 /* OCMNotificationPoster.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCMNotificationPoster.h; path = Source/OCMock/OCMNotificationPoster.h; sourceTree = "<group>"; };
 		E6B5752796A869CB175EB63FC90352F3 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/Security.framework; sourceTree = DEVELOPER_DIR; };
-		E6E15A71228180DF12554BD8B70138C8 /* EC3CreditCard.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = EC3CreditCard.h; sourceTree = "<group>"; };
 		E9419DCF0C229B30E554079B6BE324BD /* NSDictionary+MTLMappingAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSDictionary+MTLMappingAdditions.h"; path = "Mantle/NSDictionary+MTLMappingAdditions.h"; sourceTree = "<group>"; };
 		EA90862146DBAE7E1DD4749C532E815C /* OCMArgAction.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OCMArgAction.m; path = Source/OCMock/OCMArgAction.m; sourceTree = "<group>"; };
 		EB0488A4641B1718B54157C0B7ECFC0E /* AFURLResponseSerialization.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFURLResponseSerialization.m; path = AFNetworking/AFURLResponseSerialization.m; sourceTree = "<group>"; };
@@ -667,6 +663,7 @@
 		F1B5C9020D6E116617E3A672EA4E7BE6 /* CieloEcommerce.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = CieloEcommerce.modulemap; sourceTree = "<group>"; };
 		F2C055E903728832D03FE9F23E0EBD08 /* UIRefreshControl+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIRefreshControl+AFNetworking.m"; path = "UIKit+AFNetworking/UIRefreshControl+AFNetworking.m"; sourceTree = "<group>"; };
 		F30BF7B7C906F645266B83664AD548BB /* SpectaDSL.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SpectaDSL.m; path = Specta/Specta/SpectaDSL.m; sourceTree = "<group>"; };
+		F3AE876B7E1884BB3FD70A1BC3D22071 /* EC3Merchant.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = EC3Merchant.h; sourceTree = "<group>"; };
 		F3C29BF8363691B55FCDDFE545F4851B /* Expecta-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Expecta-umbrella.h"; sourceTree = "<group>"; };
 		F4313397FF100346B86EBD5CEE87E3F7 /* NSObject+MTLComparisonAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSObject+MTLComparisonAdditions.h"; path = "Mantle/NSObject+MTLComparisonAdditions.h"; sourceTree = "<group>"; };
 		F51AAB6EF30198AD7E1E2113040A3EAE /* MTLModel+NSCoding.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "MTLModel+NSCoding.m"; path = "Mantle/MTLModel+NSCoding.m"; sourceTree = "<group>"; };
@@ -676,7 +673,9 @@
 		F8F204F738F4FD05138EA4D1CB0C906F /* EXTRuntimeExtensions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = EXTRuntimeExtensions.m; path = Mantle/extobjc/EXTRuntimeExtensions.m; sourceTree = "<group>"; };
 		F8F7B605D2F1A4FDEA3AD089D38EFED9 /* EXPMatchers+beCloseTo.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "EXPMatchers+beCloseTo.m"; path = "Expecta/Matchers/EXPMatchers+beCloseTo.m"; sourceTree = "<group>"; };
 		F95C54F8E3170E13DBCC4CDF6145423F /* OCMExceptionReturnValueProvider.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCMExceptionReturnValueProvider.h; path = Source/OCMock/OCMExceptionReturnValueProvider.h; sourceTree = "<group>"; };
+		F9C840A5A0035A4E5F3A87DD401D9AB9 /* EC3CreditCard.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = EC3CreditCard.h; sourceTree = "<group>"; };
 		FA5E049F3B40133199F4BC4430CE2305 /* NSInvocation+OCMAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSInvocation+OCMAdditions.h"; path = "Source/OCMock/NSInvocation+OCMAdditions.h"; sourceTree = "<group>"; };
+		FAA37E130364215EA04CBAD07FF76732 /* EC3RequestModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = EC3RequestModel.m; sourceTree = "<group>"; };
 		FB55FABA52BEF2C6392A84C597811E42 /* EXPMatchers+beKindOf.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "EXPMatchers+beKindOf.h"; path = "Expecta/Matchers/EXPMatchers+beKindOf.h"; sourceTree = "<group>"; };
 		FCDEF47DB5F1A763C6C7079396EC1A71 /* Mantle-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Mantle-prefix.pch"; sourceTree = "<group>"; };
 		FD960F4A28AF1DAE440B48CE1BB2288F /* OCMFunctionsPrivate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OCMFunctionsPrivate.h; path = Source/OCMock/OCMFunctionsPrivate.h; sourceTree = "<group>"; };
@@ -686,6 +685,7 @@
 		FE5C4E19453EF60A2836B6D495EEE75E /* EXPDoubleTuple.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EXPDoubleTuple.h; path = Expecta/EXPDoubleTuple.h; sourceTree = "<group>"; };
 		FEBB5735A123DDC56BFBEE2B3C715E68 /* OCMObserverRecorder.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OCMObserverRecorder.m; path = Source/OCMock/OCMObserverRecorder.m; sourceTree = "<group>"; };
 		FEC225BB2252D17EAA8C29A0793F3ABB /* OCMMacroState.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OCMMacroState.m; path = Source/OCMock/OCMMacroState.m; sourceTree = "<group>"; };
+		FF1F28F1F9BF0FE81C7FC121F6CC1675 /* EC3JSONAdapter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = EC3JSONAdapter.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -822,6 +822,20 @@
 			path = Mantle;
 			sourceTree = "<group>";
 		};
+		25692A373139BF1CA2DFA4E7628E2D73 /* request */ = {
+			isa = PBXGroup;
+			children = (
+				CFE05BEFEF7C86AC7FEFE1270F49F08E /* EC3CieloEcommerce.h */,
+				2A131B4E3D2453A05B21F230045B7D7C /* EC3CieloEcommerce.m */,
+				C2E52374EF6C5B74C5B75F8841250512 /* EC3JSONAdapter.h */,
+				FF1F28F1F9BF0FE81C7FC121F6CC1675 /* EC3JSONAdapter.m */,
+				5FF1F9E26F42A24802CB8307B4F77767 /* EC3RequestModel.h */,
+				FAA37E130364215EA04CBAD07FF76732 /* EC3RequestModel.m */,
+				7993FC1F2F74B84685041CD3AA00C9E2 /* objects */,
+			);
+			path = request;
+			sourceTree = "<group>";
+		};
 		31F9883D0D33FE722B98FA9DE53DC4B9 /* Reachability */ = {
 			isa = PBXGroup;
 			children = (
@@ -834,7 +848,7 @@
 		487EB1614008309438B6C48F0A9795B9 /* CieloEcommerce */ = {
 			isa = PBXGroup;
 			children = (
-				D06188D63AFDDD897664FEB9F2AA9578 /* CieloEcommerce */,
+				5A72C90E9D2D92DDEC05EAC32D352E02 /* CieloEcommerce */,
 				66243E0448EE3CBB600AC031E9F80EC6 /* Support Files */,
 			);
 			name = CieloEcommerce;
@@ -854,19 +868,6 @@
 				8B5491859250527EF30B6711FE7A09D2 /* Specta.framework */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		526EE5B01F1AF3501C94C755981CDBAD /* request */ = {
-			isa = PBXGroup;
-			children = (
-				49F2AB44DBC7F7C14850E0A3CC17CD28 /* EC3CieloEcommerce.h */,
-				BC548905070776360742CE2B79743E37 /* EC3CieloEcommerce.m */,
-				307588F7051A1940C8683A5F77F4121C /* EC3JSONAdapter.h */,
-				BFCDA868706F168244F82EF16C6AE894 /* EC3JSONAdapter.m */,
-				9E474BB3D5D4B23E755B4B5F22EE725B /* EC3RequestModel.h */,
-				8544094C8BBCE255B3E36CC75D14FE36 /* EC3RequestModel.m */,
-			);
-			path = request;
 			sourceTree = "<group>";
 		};
 		585900DF6078A79512F1E189633E83E4 /* extobjc */ = {
@@ -894,6 +895,14 @@
 			);
 			name = "Support Files";
 			path = "../Target Support Files/Mantle";
+			sourceTree = "<group>";
+		};
+		5A72C90E9D2D92DDEC05EAC32D352E02 /* CieloEcommerce */ = {
+			isa = PBXGroup;
+			children = (
+				B613F336C37B893B80C3230F77BBCC9A /* Classes */,
+			);
+			path = CieloEcommerce;
 			sourceTree = "<group>";
 		};
 		6046295272168DC41B94858FEB0E0065 /* Support Files */ = {
@@ -954,6 +963,25 @@
 				54C94C1F85B83DF1008079D13A3B4A20 /* AFURLSessionManager.m */,
 			);
 			name = NSURLSession;
+			sourceTree = "<group>";
+		};
+		7993FC1F2F74B84685041CD3AA00C9E2 /* objects */ = {
+			isa = PBXGroup;
+			children = (
+				7348072EC275C4E1B506F8AECD5BEE79 /* EC3Address.h */,
+				8F30E7B500CAF08E790B4CF926D22426 /* EC3Address.m */,
+				F9C840A5A0035A4E5F3A87DD401D9AB9 /* EC3CreditCard.h */,
+				A00E623D4F2BE5BC0D4649DB27484899 /* EC3CreditCard.m */,
+				1ADFB2FFE23BA05F4BB5D0C87BF75159 /* EC3Customer.h */,
+				768A8223E3D10E073E62C7C14741CDD6 /* EC3Customer.m */,
+				8BA7F217DEF270181BAC5D89497632DD /* EC3Payment.h */,
+				29D505E51D408107FE84CA0013930FF6 /* EC3Payment.m */,
+				A62E69467E1813EC49D9221CE6E56751 /* EC3RecurrentPayment.h */,
+				A32A6737F1F3A6D5F07FDAAE996DE688 /* EC3RecurrentPayment.m */,
+				5547F01E4C15C3FF7D0016BF59C65638 /* EC3Sale.h */,
+				1B9CAE0D2388A62C006611399CEDEC23 /* EC3Sale.m */,
+			);
+			path = objects;
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
@@ -1235,26 +1263,14 @@
 			path = Specta;
 			sourceTree = "<group>";
 		};
-		BBBD63348EC16D2EDDE09011E0E7469A /* Classes */ = {
+		B613F336C37B893B80C3230F77BBCC9A /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				A796EBFC1C839694A0E8A60E74C406E6 /* EC3Address.h */,
-				9BF8596DF47F3252CBBE935F04397DEE /* EC3Address.m */,
-				E6E15A71228180DF12554BD8B70138C8 /* EC3CreditCard.h */,
-				088659B6BDEBC74B6C87EC71516F1043 /* EC3CreditCard.m */,
-				BD80F059DF7874BAA7B9E6B6E6E915F2 /* EC3Customer.h */,
-				784F72805CABA5E80BDDA50A2C20103A /* EC3Customer.m */,
-				A9FA68443A068CE8436DF8C0ECB247B5 /* EC3Environment.h */,
-				50657A16D8454241BA659220C0833077 /* EC3Environment.m */,
-				4C92EEB02A50B71B110140845429D648 /* EC3Merchant.h */,
-				7C38E7AA70C06FE1BA6F74F92363A3B6 /* EC3Merchant.m */,
-				3741BED245647B673D2E7412245312BD /* EC3Payment.h */,
-				25E1B99550711239B203A49C0F5BBC9F /* EC3Payment.m */,
-				DD17DF3398F2AB36A4FFB994054BA78E /* EC3RecurrentPayment.h */,
-				CBAFEA27B4E30F6A737F6E737413C5C0 /* EC3RecurrentPayment.m */,
-				D91A403803D6E792004D424796D6C26E /* EC3Sale.h */,
-				0D373388D80C845443B3FCC16FA8FC2F /* EC3Sale.m */,
-				526EE5B01F1AF3501C94C755981CDBAD /* request */,
+				8F51ED2CB1D87B789BB1AE97C7E9F1C5 /* EC3Environment.h */,
+				19E5CC29B183B4C8C96A2CB0D0BF4E60 /* EC3Environment.m */,
+				F3AE876B7E1884BB3FD70A1BC3D22071 /* EC3Merchant.h */,
+				66ACC6FCF11676C7A98417185D2ACEB4 /* EC3Merchant.m */,
+				25692A373139BF1CA2DFA4E7628E2D73 /* request */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -1285,14 +1301,6 @@
 			);
 			name = "Support Files";
 			path = "../Target Support Files/AFNetworking";
-			sourceTree = "<group>";
-		};
-		D06188D63AFDDD897664FEB9F2AA9578 /* CieloEcommerce */ = {
-			isa = PBXGroup;
-			children = (
-				BBBD63348EC16D2EDDE09011E0E7469A /* Classes */,
-			);
-			path = CieloEcommerce;
 			sourceTree = "<group>";
 		};
 		D18E0F9032A71C58CFD8470320B19FA5 /* Frameworks */ = {
