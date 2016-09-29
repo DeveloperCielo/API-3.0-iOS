@@ -1,9 +1,6 @@
-# CieloEcommerce
+# API-3.0-iOS
 
-[![CI Status](http://img.shields.io/travis/Thiago Rodrigues de Paula/CieloEcommerce.svg?style=flat)](https://travis-ci.org/Thiago Rodrigues de Paula/CieloEcommerce)
-[![Version](https://img.shields.io/cocoapods/v/CieloEcommerce.svg?style=flat)](http://cocoapods.org/pods/CieloEcommerce)
-[![License](https://img.shields.io/cocoapods/l/CieloEcommerce.svg?style=flat)](http://cocoapods.org/pods/CieloEcommerce)
-[![Platform](https://img.shields.io/cocoapods/p/CieloEcommerce.svg?style=flat)](http://cocoapods.org/pods/CieloEcommerce)
+SDK API-3.0 iOS
 
 ## Example
 
@@ -11,10 +8,9 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
-## Installation
+## Instalação
 
-CieloEcommerce is available through [CocoaPods](http://cocoapods.org). To install
-it, simply add the following line to your Podfile:
+Para instalar adicione a seguinte linha no seu `Podfile`:
 
 ```ruby
 pod "CieloEcommerce"
