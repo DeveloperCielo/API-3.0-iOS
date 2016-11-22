@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'CieloEcommerce'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'SDK de integração com a API 3.0 da Cielo.'
 
   s.homepage         = 'https://github.com/DeveloperCielo/API-3.0-iOS'

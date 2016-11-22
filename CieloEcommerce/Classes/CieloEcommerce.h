@@ -1,8 +1,14 @@
-#ifdef __OBJC__
-#import <UIKit/UIKit.h>
-#endif
+//
+//  EC3Environment.h
+//  Pods
+//
+//  Created by Thiago Rodrigues de Paula on 28/09/16.
+//
+//
 
-#import "CieloEcommerce.h"
+#ifndef CieloEcommerce_h
+#define CieloEcommerce_h
+
 #import "EC3Environment.h"
 #import "EC3Merchant.h"
 #import "EC3CieloEcommerce.h"
@@ -15,6 +21,4 @@
 #import "EC3RecurrentPayment.h"
 #import "EC3Sale.h"
 
-FOUNDATION_EXPORT double CieloEcommerceVersionNumber;
-FOUNDATION_EXPORT const unsigned char CieloEcommerceVersionString[];
-
+#endif
