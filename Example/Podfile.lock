@@ -14,7 +14,7 @@ PODS:
   - AFNetworking/Serialization (3.1.0)
   - AFNetworking/UIKit (3.1.0):
     - AFNetworking/NSURLSession
-  - CieloEcommerce (0.1.0):
+  - CieloEcommerce (0.1.1):
     - AFNetworking (~> 3.1)
     - Mantle (~> 2.0)
   - Expecta (1.0.5)
@@ -36,7 +36,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
-  CieloEcommerce: b9342eb274d500d3874c89195f4c4ed863bd5f70
+  CieloEcommerce: a4827ec65fc490c1642f395e522f8da5b076930f
   Expecta: e1c022fcd33910b6be89c291d2775b3fe27a89fe
   Mantle: bc40bb061d8c2c6fb48d5083e04d928c3b7f73d9
   OCMock: f3f61e6eaa16038c30caa5798c5e49d3307b6f22
@@ -44,4 +44,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: ec2a2098bd8fb9d694753007c958bd4dc443acbf
 
-COCOAPODS: 1.0.1
+COCOAPODS: 1.1.1

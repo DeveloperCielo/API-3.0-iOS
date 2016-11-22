@@ -7,13 +7,7 @@
 //
 
 #import "EC3ViewController.h"
-#import <CieloEcommerce/EC3Merchant.h>
-#import <CieloEcommerce/EC3Sale.h>
-#import <CieloEcommerce/EC3Address.h>
-#import <CieloEcommerce/EC3Customer.h>
-#import <CieloEcommerce/EC3CreditCard.h>
-#import <CieloEcommerce/EC3Payment.h>
-#import <CieloEcommerce/EC3CieloEcommerce.h>
+#import <CieloEcommerce/CieloEcommerce.h>
 
 @interface EC3ViewController ()
 

@@ -1,9 +1,8 @@
 {
   "name": "CieloEcommerce",
-  "version": "0.1.0",
-  "summary": "A short description of CieloEcommerce.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/CieloEcommerce",
+  "version": "0.1.1",
+  "summary": "SDK de integração com a API 3.0 da Cielo.",
+  "homepage": "https://github.com/DeveloperCielo/API-3.0-iOS",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +11,8 @@
     "Thiago Rodrigues de Paula": "thiago.rdp@gmail.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/CieloEcommerce.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/DeveloperCielo/API-3.0-iOS.git",
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"
