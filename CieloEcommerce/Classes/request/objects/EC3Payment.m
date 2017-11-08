@@ -75,6 +75,7 @@
     NSDictionary *providerDict = @{
                                    @"Bradesco": @(Bradesco),
                                    @"BancoDoBrasil": @(BancoDoBrasil),
+                                   @"Cielo": @(Cielo),
                                    @"Simulado": @(Simulado)
                                    };
     
