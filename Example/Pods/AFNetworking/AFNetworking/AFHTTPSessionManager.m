@@ -280,8 +280,20 @@
                        completionHandler:^(NSURLResponse * __unused response, id responseObject, NSError *error) {
         if (error) {
             if (failure) {
-                failure(dataTask, error);
-            }
+                if ([responseObject isKindOfClass:[NSArray class]]) {
+                    NSArray<NSDictionary *> *errors = (NSArray *)responseObject;
+
+                    NSMutableDictionary<NSErrorUserInfoKey, id> *userInfo = [error.userInfo mutableCopy];
+                    for (NSDictionary *dic  in errors) {
+                        NSString *key = [NSString stringWithFormat:@"APIError-Code: %@", dic[@"Code"]];
+                        NSString *value = dic[@"Message"];
+                        [userInfo setObject:value forKey:key];
+                    }
+                    NSError *newError = [[NSError alloc] initWithDomain:error.domain code:error.code userInfo:userInfo];
+                    failure(dataTask, newError);
+                } else {
+                    failure(dataTask, error);
+                }            }
         } else {
             if (success) {
                 success(dataTask, responseObject);
