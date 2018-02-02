@@ -94,7 +94,7 @@ andServiceTaxAmount:(int)serviceTaxAmount
 
 - (void(^)(NSURLSessionDataTask*, NSError*))failureBlock:(EC3RequestFailureBlock)failure {
     return ^(NSURLSessionDataTask *task, NSError *error) {
-        failure(task.response, error);
+        failure(error, task.response);
     };
 }
 

@@ -14,6 +14,7 @@
 typedef enum {
     Bradesco,
     BancoDoBrasil,
+    Cielo,
     Simulado
 } EC3PaymentProvider;
 
